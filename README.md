@@ -313,11 +313,11 @@ streamlit run streamlit_app.py
 
 ### Home Page
 
-![Home Page](assets/home.png)
+![Home Page] (assets/Home Page.png)
 
 ### AI Chat Example
 
-![Chat Demo](assets/chat_demo.png)
+![Chat Demo] (assets/Demo.png)
 
 
 ---
